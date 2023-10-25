@@ -1,3 +1,5 @@
 este es un documento nuevo
 
-con un cambio
+con un cambio. 
+
+Y un segundo cambio
