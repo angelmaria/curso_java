@@ -1,9 +1,0 @@
-este es un documento nuevo
-
-con un cambio. 
-
-Y un segundo cambio. 
-
-Estoy haciendo cambios desde VSCode
-
-Cambio desde dev2
